@@ -17,3 +17,9 @@ name = "vania"
 size = 90
 
 email = "vania@something.bg"
+
+name = "penka"
+
+size = 64
+
+email = "something@something.something"
