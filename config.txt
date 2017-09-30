@@ -18,7 +18,7 @@ size = 90
 
 email = "tralalal@something.bg"
 
-name = "penka"
+name = "huika"
 
 size = 64
 
