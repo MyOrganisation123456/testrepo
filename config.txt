@@ -10,3 +10,10 @@ name = "sasho"
 size = 85
 
 email = "saho@whogivesashit.com"
+
+
+name = "vania"
+
+size = 90
+
+email = "vania@something.bg"
